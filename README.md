@@ -34,12 +34,14 @@ http://williancarvalho.com/webassembly/
 
 ### Write a C code
 
-        #include <stdio.h>
+```c
+      #include <stdio.h>
 
-        int main (int argc, char ** argv) {
-          char * hello = "Hello, Webassembly!";
-          printf("%s\n", hello);
-        }
+      int main (int argc, char ** argv) {
+        char * hello = "Hello, Webassembly!";
+        printf("%s\n", hello);
+      }
+```
 
 ### Compile it with emcc
 
