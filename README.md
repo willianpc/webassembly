@@ -53,4 +53,20 @@ This command will output an HTML page, a Javascript file and a WASM file
 
         python -m SimpleHTTPServer
 
-### Celebrate!
+That's that!
+
+### Being lazy
+
+If you happen to have a very similar environment as mine, you can use my `Makefile` to do the job for you:
+
+        $ make
+
+This will build the 3 files into a `dist` folder.
+
+To be even lazier, you can run
+
+        $ make .serve_web
+
+Which will build stuff to the `dist` folder and start the Python SimpleHTTPServer. Then go to `http://localhost:8000/dist` to see the page.
+
+To be extremely super lazy, just see the results at http://williancarvalho.com/webassembly/
