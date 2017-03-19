@@ -1,5 +1,5 @@
 # webassembly
-playing with webassembly
+Playing with WebAssembly
 
 ## Getting started
 
@@ -10,6 +10,13 @@ My environment is a PC running Linux Mint. For details about Mac or Windows, ple
 ## Live Sample
 
 http://williancarvalho.com/webassembly/
+
+## Fiddle
+https://wasdk.github.io/WasmFiddle/
+
+## WASM Explorer
+
+https://mbebenita.github.io/WasmExplorer/
 
 ## Requirements
  * Git
