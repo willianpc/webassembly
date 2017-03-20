@@ -8,10 +8,10 @@ My environment is a PC running Linux Mint. For details about Mac or Windows, ple
 
 ## Browser compatibility
 
-From my tests, the following browsers worked:
+From my tests, the following browsers are currently supported:
 
- * Firefox (Linux Mint, Windows 10 and Android)
- * Google Chrome (Linux Mint)
+ * Firefox 52 (Linux Mint, Windows 10, Mac and Android)
+ * Google Chrome 57 (Linux Mint and Mac)
 
 If you happen to test this in another browsers, please let me know: o.chambs@gmail.com
 
